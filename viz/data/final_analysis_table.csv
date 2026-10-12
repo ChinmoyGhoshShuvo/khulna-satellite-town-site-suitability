@@ -1,0 +1,20 @@
+# Source: "Suitability Analysis of Satellite Towns Report.docx", Table 10 (Final Analysis Table). Scores on a 0-10 scale; weight in % of total.
+group,subfactor,weight_pct,site2,site4,site5,site7,site9
+Distance from central city,Distance from central city,11.76,3,5,8,8,7
+Topography,Average elevation,4.12,4,4,4,5,8
+Topography,Existing water bodies,6.18,6,5,5,5,7
+Transportation,Distance from main road,7.94,7,7,4,7,6
+Transportation,Railway station,5.29,4,6,5,4,3
+Community services,School,1.54,7,7,8,8,4
+Community services,College,1.54,6,6,8,5,4
+Community services,Central market,3.60,4,5,8,8,8
+Community services,Hospital,2.57,3,5,8,8,6
+Community services,Nearest residential area,1.03,7,7,9,5,6
+Security,Police station,6.18,4,5,8,8,8
+Security,Fire brigade,2.65,5,5,6,4,3
+Utilities,Fuel stations,3.09,8,7,7,4,7
+Utilities,Power stations,7.21,7,4,8,6,8
+Flood level,Flood level,10.29,9,5,3,8,9
+Vegetation,Vegetation,8.82,6,6,4,3,2
+Salinity,Salinity,8.82,4,5,3,6,8
+Drainage,Drainage system,7.35,7,6,6,6,7

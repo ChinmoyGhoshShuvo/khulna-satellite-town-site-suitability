@@ -1,0 +1,20 @@
+# Source: report Table 12 (Area Calculation for Required Facilities), Gazette 2012 standards; site area 167 acres, target density 350 persons/acre
+category,facility,area_acre
+Education,Nursery & primary school,4.8
+Education,Secondary school,6
+Education,College,4.8
+Health,Clinic & hospital,2.4
+Community service,Community centre,2.4
+Community service,Religious service,2.4
+Community service,Rail station,2
+Commercial,Kacha bazar,2.4
+Commercial,Market,2.4
+Administrative,CBD,1.2
+Recreational,Playground,4.8
+Recreational,Park / lake,7.2
+Urban service,Police station,2
+Urban service,Bus station,1
+Urban service,Electric sub-grid,1.5
+Urban service,Graveyard,5
+Road,Residential roads,20.4
+Residential,Net residential area,94.3
